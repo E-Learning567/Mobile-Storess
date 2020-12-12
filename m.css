@@ -1,0 +1,15 @@
+p{
+			padding:10px;
+		}
+		h1{
+			text-align: center;
+			color: green;
+		}
+		h2{
+			color:darkblue;
+		}
+body{
+	background-image: url('bg.jpg');
+	background-size: cover;
+	
+}		
